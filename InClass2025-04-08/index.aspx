@@ -53,7 +53,7 @@
                     </asp:TableCell>
 
                     <asp:TableCell>
-                        <asp:Button ID="cmdOK" runat="server" Text="OK" />
+                        <asp:Button ID="cmdOK" runat="server" Text="OK"/>
                     </asp:TableCell>
 
                 </asp:TableRow>
